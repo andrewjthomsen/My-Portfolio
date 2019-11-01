@@ -5,7 +5,7 @@ class About extends React.Component {
   render() {
     return (
       <BaseLayout>
-        I am About Page <Header />
+        <h1>I am About Page</h1>
       </BaseLayout>
     );
   }

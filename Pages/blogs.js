@@ -5,7 +5,7 @@ class Blogs extends React.Component {
   render() {
     return (
       <BaseLayout>
-        I am Blogs Page <Header />
+        <h1>I am Blogs Page</h1>
       </BaseLayout>
     );
   }

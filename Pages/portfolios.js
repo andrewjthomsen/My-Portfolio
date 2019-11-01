@@ -5,7 +5,7 @@ class Portfolios extends React.Component {
   render() {
     return (
       <BaseLayout>
-        I am Portfolios Page <Header />
+        <h1>I am Portfolios Page </h1>
       </BaseLayout>
     );
   }
